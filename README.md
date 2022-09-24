@@ -9,7 +9,7 @@ Source code for the Witcher network project tutorial on my Youtube channel.
 
 [![](https://img.youtube.com/vi/RuNolAh_4bU/0.jpg)](https://www.youtube.com/watch?v=RuNolAh_4bU)
 
-* Episode 2 - [SExtracting relationships from books and network analyses](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
+* Episode 2 - [Extracting relationships from books and network analyses](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
 
 [![](https://img.youtube.com/vi/fAHkJ_Dhr50/0.jpg)](https://www.youtube.com/watch?v=fAHkJ_Dhr50)
 
