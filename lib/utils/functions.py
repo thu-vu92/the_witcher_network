@@ -84,7 +84,7 @@ def create_relationships(df, window_size):
     relationships = []
 
     for i in range(df.index[-1]):
-        end_i = min(i+5, df.index[-1])
+        end_i = min(i + window_size, df.index[-1])
         char_list = sum((df.loc[i: end_i].character_entities), [])
 
         # Remove duplicated characters that are next to each other
